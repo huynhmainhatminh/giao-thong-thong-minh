@@ -1,0 +1,6 @@
+http://171.251.71.193:3098/live/hues01nguyensinhcung/index.m3u8|PCLB_1 Nguyễn Sinh Cung
+http://171.251.71.193:3098/live/hues175batrieu/index.m3u8|PCLB_175 Bà Triệu
+http://171.251.71.193:3098/live/hues81nguyenhue/index.m3u8|PCLB_81 Nguyễn Huệ
+http://171.251.71.193:3098/live/huesbaccauphuxuan/index.m3u8|PCLB_Bắc Cầu Phú Xuân
+http://171.251.71.193:3098/live/hues30truongchinh/index.m3u8|PCLB_30 Trường Chinh
+
