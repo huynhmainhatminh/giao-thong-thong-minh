@@ -12,5 +12,4 @@ phần mềm phát hiện các lỗi giao thông
 - av
 - numpy
 - pytorch
-- 
 - Yolov11
